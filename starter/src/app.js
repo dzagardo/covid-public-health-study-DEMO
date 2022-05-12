@@ -23,7 +23,7 @@ import MarkerClusterer from '@google/markerclustererplus'
  * Maps JS API libraries.
  */
 const apiOptions = {
-    apiKey: "AIzaSyDNIZ98lanupJMTsPbnPxpzWh2AIvtCDPg"
+    apiKey: "KEY HERE"
 }
 
 /**

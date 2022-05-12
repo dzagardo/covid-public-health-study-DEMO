@@ -18,7 +18,7 @@ import { Loader } from '@googlemaps/js-api-loader';
 import MarkerClusterer from '@google/markerclustererplus';
 
 const apiOptions = {
-  apiKey: "YOUR API KEY"
+  apiKey: "AIzaSyDNIZ98lanupJMTsPbnPxpzWh2AIvtCDPg"
 }
 
 const loader = new Loader(apiOptions);
